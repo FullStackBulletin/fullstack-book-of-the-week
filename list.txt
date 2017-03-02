@@ -55,4 +55,6 @@ https://www.amazon.com/RESTful-API-Design-API-University-3/dp/1514735164
 https://www.amazon.com/Build-APIs-You-Wont-Hate/dp/0692232699
 https://www.amazon.com/Irresistible-APIs-Designing-that-developers/dp/1617292559
 https://www.amazon.com/RESTful-Web-APIs-Services-Changing/dp/1449358063
-
+https://www.amazon.com/Graph-Databases-Opportunities-Connected-Data/dp/1491930896
+https://www.amazon.com/Building-Microservices-Designing-Fine-Grained-Systems/dp/1491950358
+https://www.amazon.com/Art-Scalability-Architecture-Organizations-Enterprise/dp/0134032802
