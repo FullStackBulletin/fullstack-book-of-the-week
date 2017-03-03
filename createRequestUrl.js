@@ -22,7 +22,7 @@ module.exports = (accessKeyId, secretAccessKey, associateTag) => (operation, opt
     parameters.sort().join('&');
 
   const signature = crypto.createHmac("sha256", secretAccessKey).update(toSign).digest("base64");
-  url += `?${parameters.join('&')}&Signature=${signature}`;
+  url += `?${parameters.join('&')}&Signature=${encodeURIComponent(signature)}`;
 
   return url;
 }
