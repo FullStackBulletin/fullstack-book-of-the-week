@@ -1,0 +1,25 @@
+{
+  "name": "fullstack-book-of-the-week",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FullStackBulletin/fullstack-book-of-the-week.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FullStackBulletin/fullstack-book-of-the-week/issues"
+  },
+  "homepage": "https://github.com/FullStackBulletin/fullstack-book-of-the-week#readme",
+  "dependencies": {
+    "csv2": "^0.1.1",
+    "moment": "^2.17.1",
+    "moment-timezone": "^0.5.11",
+    "through2": "^2.0.3"
+  }
+}
