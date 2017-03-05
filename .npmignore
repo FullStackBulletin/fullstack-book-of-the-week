@@ -38,4 +38,7 @@ jspm_packages
 
 .test_results.txt
 
-lib/
+test/
+circle.yml
+.babelrc
+.eslintrc.js

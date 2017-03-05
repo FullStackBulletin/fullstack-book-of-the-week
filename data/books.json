@@ -1,0 +1,596 @@
+[
+  {
+    "id": "0008166099",
+    "title": "Algorithms to live by",
+    "author": "Brian Christian and Tom Griffiths",
+    "links": {
+      "usa": "https://www.amazon.com/dp/0008166099/?tag=fullstackbulletin-20",
+      "uk": "https://www.amazon.co.uk/dp/0008166099/?tag=fullstackbulletin-21"
+    },
+    "coverPicture": "https://images-na.ssl-images-amazon.com/images/I/51mu1fKpgTL.jpg",
+    "description": "A fascinating exploration of how computer algorithms can be applied to our everyday lives, helping to solve common decision-making problems and illuminate the workings of the human mindAll our lives are constrained by limited space and time, limits that give rise to a particular set of problems. What should we do, or leave undone, in a day or a lifetime? How much messiness should we accept? What balance of new activities and familiar favourites is the most fulfilling?"
+  },
+  {
+    "id": "1491946008",
+    "title": "Fluent Python: Clear, Concise, and Effective Programming",
+    "author": "Luciano Ramalho",
+    "links": {
+      "usa": "https://www.amazon.com/dp/1491946008/?tag=fullstackbulletin-20",
+      "uk": "https://www.amazon.co.uk/dp/1491946008/?tag=fullstackbulletin-21"
+    },
+    "coverPicture": "https://images-na.ssl-images-amazon.com/images/I/51cRqX8DTgL.jpg",
+    "description": "Python’s simplicity lets you become productive quickly, but this often means you aren’t using everything it has to offer.  With this hands-on guide, you’ll learn how to write effective, idiomatic Python code by leveraging its best—and possibly most neglected—features."
+  },
+  {
+    "id": "1449379702",
+    "title": "Designing Interfaces: Patterns for Effective Interaction Design",
+    "author": "Jenifer Tidwell",
+    "links": {
+      "usa": "https://www.amazon.com/dp/1449379702/?tag=fullstackbulletin-20",
+      "uk": "https://www.amazon.co.uk/dp/1449379702/?tag=fullstackbulletin-21"
+    },
+    "coverPicture": "https://images-na.ssl-images-amazon.com/images/I/51I%2BKHklKdL.jpg",
+    "description": "Despite all of the UI toolkits available today, it's still not easy to design good application interfaces. This bestselling book is one of the few reliable sources to help you navigate through the maze of design options."
+  },
+  {
+    "id": "0596528124",
+    "title": "Mastering Regular Expressions",
+    "author": "Jeffrey E. F. Friedl",
+    "links": {
+      "usa": "https://www.amazon.com/dp/0596528124/?tag=fullstackbulletin-20",
+      "uk": "https://www.amazon.co.uk/dp/0596528124/?tag=fullstackbulletin-21"
+    },
+    "coverPicture": "https://images-na.ssl-images-amazon.com/images/I/51KI331tzAL.jpg",
+    "description": "Regular expressions are an extremely powerful tool for manipulating text and data. They are now standard features in a wide range of languages and popular tools, including Perl, Python, Ruby, Java, VB.NET and C# (and any language using the .NET Framework), PHP, and MySQL.If you don't use regular expressions yet, you will discover in this book a whole new world of mastery over your data. If you already use them, you'll appreciate this book's unprecedented detail and breadth of coverage."
+  },
+  {
+    "id": "0321833899",
+    "title": "PHP and MySQL Web Development (5th Edition) (Developer's Library)",
+    "author": "Luke Welling",
+    "links": {
+      "usa": "https://www.amazon.com/dp/0321833899/?tag=fullstackbulletin-20",
+      "uk": "https://www.amazon.co.uk/dp/0321833899/?tag=fullstackbulletin-21"
+    },
+    "coverPicture": "https://images-na.ssl-images-amazon.com/images/I/51nH-sj-33L.jpg",
+    "description": "PHP and MySQL are popular open-source technologies that are ideal for quickly developing database-driven Web applications. PHP is a powerful scripting language designed to enable developers to create highly featured Web applications quickly, and MySQL is a fast, reliable database that integrates well with PHP and is suited for dynamic Internet-based applications"
+  },
+  {
+    "id": "0201633612",
+    "title": "Design Patterns: Elements of Reusable Object-Oriented Software",
+    "author": "E. Gamma, R. Helm, R. Johnson, J. Vlissides",
+    "links": {
+      "usa": "https://www.amazon.com/dp/0201633612/?tag=fullstackbulletin-20",
+      "uk": "https://www.amazon.co.uk/dp/0201633612/?tag=fullstackbulletin-21"
+    },
+    "coverPicture": "https://images-na.ssl-images-amazon.com/images/I/51szD9HC9pL.jpg",
+    "description": "Capturing a wealth of experience about the design of object-oriented software, four top-notch designers present a catalog of simple and succinct solutions to commonly occurring design problems. Previously undocumented, these 23 patterns allow designers to create more flexible, elegant, and ultimately reusable designs without having to rediscover the design solutions themselves."
+  },
+  {
+    "id": "1617290343",
+    "title": "Big Data: Principles and best practices of scalable realtime data systems",
+    "author": "Nathan Marz",
+    "links": {
+      "usa": "https://www.amazon.com/dp/1617290343/?tag=fullstackbulletin-20",
+      "uk": "https://www.amazon.co.uk/dp/1617290343/?tag=fullstackbulletin-21"
+    },
+    "coverPicture": "https://images-na.ssl-images-amazon.com/images/I/51Bd93AGuOL.jpg",
+    "description": "Big Data teaches you to build big data systems using an architecture that takes advantage of clustered hardware along with new tools designed specifically to capture and analyze web-scale data. It describes a scalable, easy-to-understand approach to big data systems that can be built and run by a small team."
+  },
+  {
+    "id": "1491911689",
+    "title": "Information Architecture: For the Web and Beyond",
+    "author": "Louis Rosenfeld",
+    "links": {
+      "usa": "https://www.amazon.com/dp/1491911689/?tag=fullstackbulletin-20",
+      "uk": "https://www.amazon.co.uk/dp/1491911689/?tag=fullstackbulletin-21"
+    },
+    "coverPicture": "https://images-na.ssl-images-amazon.com/images/I/51gpnrSXHHL.jpg",
+    "description": "Information architecture (IA) is far more challenging—and necessary—than ever. With the glut of information available today, anything your organization wants to share should be easy to find, navigate, and understand. But the experience you provide has to be familiar and coherent across multiple interaction channels, from the Web to smartphones, smartwatches, and beyond.To guide you through this broad ecosystem, this popular guide—now in its fourth edition—provides essential concepts, methods, and techniques for digital design that have withstood the test of time."
+  },
+  {
+    "id": "1449358063",
+    "title": "RESTful Web APIs: Services for a Changing World",
+    "author": "Leonard Richardson",
+    "links": {
+      "usa": "https://www.amazon.com/dp/1449358063/?tag=fullstackbulletin-20",
+      "uk": "https://www.amazon.co.uk/dp/1449358063/?tag=fullstackbulletin-21"
+    },
+    "coverPicture": "https://images-na.ssl-images-amazon.com/images/I/51V3CQY4qkL.jpg",
+    "description": "The popularity of REST in recent years has led to tremendous growth in almost-RESTful APIs that don’t include many of the architecture’s benefits. With this practical guide, you’ll learn what it takes to design usable REST APIs that evolve over time."
+  },
+  {
+    "id": "0321146530",
+    "title": "Test Driven Development: By Example",
+    "author": "Kent Beck",
+    "links": {
+      "usa": "https://www.amazon.com/dp/0321146530/?tag=fullstackbulletin-20",
+      "uk": "https://www.amazon.co.uk/dp/0321146530/?tag=fullstackbulletin-21"
+    },
+    "coverPicture": "https://images-na.ssl-images-amazon.com/images/I/51IraByqmSL.jpg",
+    "description": "Developers face complex programming challenges every day, yet they are not always readily prepared to determine the best solution. More often than not, such difficult projects generate a great deal of stress and bad code. To garner the strength and courage needed to surmount seemingly Herculean tasks, programmers should look to test-driven development (TDD), a proven set of techniques that encourage simple designs and test suites that inspire confidence."
+  },
+  {
+    "id": "1449372864",
+    "title": "UX Strategy: How to Devise Innovative Digital Products that People Want",
+    "author": "Jaime Levy",
+    "links": {
+      "usa": "https://www.amazon.com/dp/1449372864/?tag=fullstackbulletin-20",
+      "uk": "https://www.amazon.co.uk/dp/1449372864/?tag=fullstackbulletin-21"
+    },
+    "coverPicture": "https://images-na.ssl-images-amazon.com/images/I/51lqlvdKDML.jpg",
+    "description": "User experience (UX) strategy requires a careful blend of business strategy and UX design, but until now, there hasn’t been an easy-to-apply framework for executing it. This hands-on guide introduces lightweight strategy tools and techniques to help you and your team craft innovative multi-device products that people want to use. Whether you’re an entrepreneur, UX/UI designer, product manager, or part of an intrapreneurial team, this book teaches simple-to-advanced strategies that you can use in your work right away."
+  },
+  {
+    "id": "0692232699",
+    "title": "Build APIs You Won't Hate: Everyone and their dog wants an API, so you should probably learn how to build them",
+    "author": "Phil Sturgeon",
+    "links": {
+      "usa": "https://www.amazon.com/dp/0692232699/?tag=fullstackbulletin-20",
+      "uk": "https://www.amazon.co.uk/dp/0692232699/?tag=fullstackbulletin-21"
+    },
+    "coverPicture": "https://images-na.ssl-images-amazon.com/images/I/41A-D5UDB%2BL.jpg",
+    "description": "API development is becoming increasingly common for server-side developers thanks to the rise of front-end JavaScript frameworks, iPhone applications, and API-centric architectures. It might seem like grabbing stuff from a data source and shoving it out as JSON would be easy, but surviving changes in business logic, database schema updates, new features, or deprecated endpoints can be a nightmare. After finding many of the existing resources for API development to be lacking, Phil learned a lot of things the hard way through years of trial and error. This book aims to condense that experience, taking examples and explanations further than the trivial apples and pears nonsense tutorials often provide. By passing on some best practices and general good advice you can hit the ground running with API development, combined with some horror stories and how they were overcome/avoided/averted."
+  },
+  {
+    "id": "0321826620",
+    "title": "NoSQL Distilled: A Brief Guide to the Emerging World of Polyglot Persistence",
+    "author": "Pramod J. Sadalage",
+    "links": {
+      "usa": "https://www.amazon.com/dp/0321826620/?tag=fullstackbulletin-20",
+      "uk": "https://www.amazon.co.uk/dp/0321826620/?tag=fullstackbulletin-21"
+    },
+    "coverPicture": "https://images-na.ssl-images-amazon.com/images/I/511HOkCeDpL.jpg",
+    "description": "The need to handle increasingly larger data volumes is one factor driving the adoption of a new class of nonrelational “NoSQL” databases. Advocates of NoSQL databases claim they can be used to build systems that are more performant, scale better, and are easier to program."
+  },
+  {
+    "id": "1491918667",
+    "title": "Learning PHP, MySQL & JavaScript: With jQuery, CSS & HTML5",
+    "author": "Robin Nixon",
+    "links": {
+      "usa": "https://www.amazon.com/dp/1491918667/?tag=fullstackbulletin-20",
+      "uk": "https://www.amazon.co.uk/dp/1491918667/?tag=fullstackbulletin-21"
+    },
+    "coverPicture": "https://images-na.ssl-images-amazon.com/images/I/51mk%2B9J-dbL.jpg",
+    "description": "The fully revised, updated and extended 4th edition of the hugely popular web development book - includes CSS, HTML5, jQuery and the mysqli extension. Build interactive, data-driven websites with the potent combination of open-source technologies and web standards, even if you only have basic HTML knowledge. With this popular hands-on guide, you'll tackle dynamic web programming with the help of today's core technologies: PHP, MySQL, JavaScript, jQuery, CSS, and HTML5."
+  },
+  {
+    "id": "1491931655",
+    "title": "Reactive Programming with RxJava: Creating Asynchronous, Event-Based Applications",
+    "author": "Tomasz Nurkiewicz",
+    "links": {
+      "usa": "https://www.amazon.com/dp/1491931655/?tag=fullstackbulletin-20",
+      "uk": "https://www.amazon.co.uk/dp/1491931655/?tag=fullstackbulletin-21"
+    },
+    "coverPicture": "https://images-na.ssl-images-amazon.com/images/I/51S7isuSqjL.jpg",
+    "description": "In today’s app-driven era, when programs are asynchronous and responsiveness is so vital, reactive programming can help you write code that’s more reliable, easier to scale, and better-performing. With this practical book, Java developers will first learn how to view problems in the reactive way, and then build programs that leverage the best features of this exciting new programming paradigm."
+  },
+  {
+    "id": "B00ZJNH0G0",
+    "title": "Web Scraping with Python: Collecting Data from the Modern Web",
+    "author": "Ryan Mitchell",
+    "links": {
+      "usa": "https://www.amazon.com/dp/B00ZJNH0G0/?tag=fullstackbulletin-20",
+      "uk": "https://www.amazon.co.uk/dp/B00ZJNH0G0/?tag=fullstackbulletin-21"
+    },
+    "coverPicture": "https://images-na.ssl-images-amazon.com/images/I/517z2NUzcEL.jpg",
+    "description": "Learn web scraping and crawling techniques to access unlimited data from any web source in any format. With this practical guide, you’ll learn how to use Python scripts and web APIs to gather and process data from thousands—or even millions—of web pages at once. Ideal for programmers, security professionals, and web administrators familiar with Python, this book not only teaches basic web scraping mechanics, but also delves into more advanced topics, such as analyzing raw data or using scrapers for frontend website testing."
+  },
+  {
+    "id": "0137081073",
+    "title": "The Clean Coder: A Code of Conduct for Professional Programmers",
+    "author": "Robert C. Martin",
+    "links": {
+      "usa": "https://www.amazon.com/dp/0137081073/?tag=fullstackbulletin-20",
+      "uk": "https://www.amazon.co.uk/dp/0137081073/?tag=fullstackbulletin-21"
+    },
+    "coverPicture": "https://images-na.ssl-images-amazon.com/images/I/512NzCU0wfL.jpg",
+    "description": "Programmers who endure and succeed amidst swirling uncertainty and nonstop pressure share a common attribute: They care deeply about the practice of creating software. They treat it as a craft. They are professionals. In this book, legendary software expert Robert C. Martin introduces the disciplines, techniques, tools, and practices of true software craftsmanship."
+  },
+  {
+    "id": "0134190440",
+    "title": "The Go Programming Language",
+    "author": "Alan A. A. Donovan",
+    "links": {
+      "usa": "https://www.amazon.com/dp/0134190440/?tag=fullstackbulletin-20",
+      "uk": "https://www.amazon.co.uk/dp/0134190440/?tag=fullstackbulletin-21"
+    },
+    "coverPicture": "https://images-na.ssl-images-amazon.com/images/I/41IAmGc3p0L.jpg",
+    "description": "The Go Programming Language   is the authoritative resource for any programmer who wants to learn Go. It shows how to write clear and idiomatic Go to solve real-world problems. The book does not assume prior knowledge of Go nor experience with any specific language, so you’ll find it accessible whether you’re most comfortable with JavaScript, Ruby, Python, Java, or C++."
+  },
+  {
+    "id": "1593273894",
+    "title": "The Linux Command Line: A Complete Introduction",
+    "author": "William E. Shotts Jr.",
+    "links": {
+      "usa": "https://www.amazon.com/dp/1593273894/?tag=fullstackbulletin-20",
+      "uk": "https://www.amazon.co.uk/dp/1593273894/?tag=fullstackbulletin-21"
+    },
+    "coverPicture": "https://images-na.ssl-images-amazon.com/images/I/516heTllggL.jpg",
+    "description": "The Linux Command Line takes you from your very first terminal keystrokes to writing full programs in Bash, the most popular Linux shell. Along the way you'll learn the timeless skills handed down by generations of gray-bearded, mouse-shunning gurus: file navigation, environment configuration, command chaining, pattern matching with regular expressions, and more. In addition to that practical knowledge, author William Shotts reveals the philosophy behind these tools and the rich heritage that your desktop Linux machine has inherited from Unix supercomputers of yore."
+  },
+  {
+    "id": "020161622X",
+    "title": "The Pragmatic Programmer: From Journeyman to Master",
+    "author": "Andrew Hunt",
+    "links": {
+      "usa": "https://www.amazon.com/dp/020161622X/?tag=fullstackbulletin-20",
+      "uk": "https://www.amazon.co.uk/dp/020161622X/?tag=fullstackbulletin-21"
+    },
+    "coverPicture": "https://images-na.ssl-images-amazon.com/images/I/41BKx1AxQWL.jpg",
+    "description": "he Pragmatic Programmer cuts through the increasing specialization and technicalities of modern software development to examine the core process-taking a requirement and producing working, maintainable code that delights its users. It covers topics ranging from personal responsibility and career development to architectural techniques for keeping your code flexible and easy to adapt and reuse."
+  },
+  {
+    "id": "1491904240",
+    "title": "You Don't Know JS: ES6 & Beyond",
+    "author": "Kyle Simpson",
+    "links": {
+      "usa": "https://www.amazon.com/dp/1491904240/?tag=fullstackbulletin-20",
+      "uk": "https://www.amazon.co.uk/dp/1491904240/?tag=fullstackbulletin-21"
+    },
+    "coverPicture": "https://images-na.ssl-images-amazon.com/images/I/41WeQ-Z4diL.jpg",
+    "description": "As part of the \"You Don’t Know JS\" series, this compact guide focuses on new features available in ECMAScript 6 (ES6), the latest version of the standard upon which JavaScript is built. Learn new ES6 syntax that eases the pain points of common programming idioms. Organize code with iterators, generators, modules, and classes. Express async flow control with Promises combined with generators. Use collections to work more efficiently with data in structured waysLeverage new API helpers, including Array, Object, Math, Number, and String. Extend your program’s capabilities through meta programming."
+  },
+  {
+    "id": "0201835959",
+    "title": "The Mythical Man-Month: Essays on Software Engineering",
+    "author": "Frederick P. Brooks Jr.",
+    "links": {
+      "usa": "https://www.amazon.com/dp/0201835959/?tag=fullstackbulletin-20",
+      "uk": "https://www.amazon.co.uk/dp/0201835959/?tag=fullstackbulletin-21"
+    },
+    "coverPicture": "https://images-na.ssl-images-amazon.com/images/I/51XnDL5KC%2BL.jpg",
+    "description": "Few books on software project management have been as influential and timeless as The Mythical Man-Month. With a blend of software engineering facts and thought-provoking opinions, Fred Brooks offers insight for anyone managing complex projects. These essays draw from his experience as project manager for the IBM System/360 computer family and then for OS/360, its massive software system. Now, 20 years after the initial publication of his book, Brooks has revisited his original ideas and added new thoughts and advice, both for readers already familiar with his work and for readers discovering it for the first time."
+  },
+  {
+    "id": "1785888188",
+    "title": "Getting Started with hapi.js",
+    "author": "John Brett",
+    "links": {
+      "usa": "https://www.amazon.com/dp/1785888188/?tag=fullstackbulletin-20",
+      "uk": "https://www.amazon.co.uk/dp/1785888188/?tag=fullstackbulletin-21"
+    },
+    "coverPicture": "https://images-na.ssl-images-amazon.com/images/I/51NlH4F%2BKML.jpg",
+    "description": "This book will introduce hapi.js and walk you through the creation of your first working application using the out-of-the-box features hapi.js provides. Packed with real-world problems and examples, this book introduces some of the basic concepts of hapi.js and Node.js and takes you through the typical journey you'll face when developing an application. Starting with easier concepts such as routing requests, building APIs serving JSON, using templates to build websites and applications, and connecting databases, we then move on to more complex problems such as authentication, model validation, caching, and techniques for structuring your codebase to scale gracefully."
+  },
+  {
+    "id": "B01M01YDQA",
+    "title": "The Self-Taught Programmer: The Definitive Guide to Programming Professionally",
+    "author": "Cory Althoff",
+    "links": {
+      "usa": "https://www.amazon.com/dp/B01M01YDQA/?tag=fullstackbulletin-20",
+      "uk": "https://www.amazon.co.uk/dp/B01M01YDQA/?tag=fullstackbulletin-21"
+    },
+    "coverPicture": "https://images-na.ssl-images-amazon.com/images/I/41MCEJ-VJOL.jpg",
+    "description": "This book is not just about learning to program; although you will learn to code. If you want to program professionally, it is not enough to learn to code; that is why, in addition to helping you learn to program, it also covers the rest of the things you need to know to program professionally that classes and books don't teach you."
+  },
+  {
+    "id": "B01N9S0CZN",
+    "title": "Angular 2: From Theory To Practice",
+    "author": "Asim Hussain",
+    "links": {
+      "usa": "https://www.amazon.com/dp/B01N9S0CZN/?tag=fullstackbulletin-20",
+      "uk": "https://www.amazon.co.uk/dp/B01N9S0CZN/?tag=fullstackbulletin-21"
+    },
+    "coverPicture": "https://images-na.ssl-images-amazon.com/images/I/513tOieh9JL.jpg",
+    "description": "In this quickstart you'll get a 50,000 foot view of the major features of Angular 2 including: Typescript & ES6 Javascript, Components & Binding, Directives, Dependancy Injection & Services, Angular Modules & Bootstrapping your Angular application., SPAs & Routing, Angular CLI, Forms, Reactive Programming with RXJs, HTTP and finally Unit Testing."
+  },
+  {
+    "id": "1491930896",
+    "title": "Graph Databases: New Opportunities for Connected Data",
+    "author": "Ian Robinson",
+    "links": {
+      "usa": "https://www.amazon.com/dp/1491930896/?tag=fullstackbulletin-20",
+      "uk": "https://www.amazon.co.uk/dp/1491930896/?tag=fullstackbulletin-21"
+    },
+    "coverPicture": "https://images-na.ssl-images-amazon.com/images/I/5134ExT3gFL.jpg",
+    "description": "Discover how graph databases can help you manage and query highly connected data. With this practical book, you’ll learn how to design and implement a graph database that brings the power of graphs to bear on a broad range of problem domains. Whether you want to speed up your response to user queries or build a database that can adapt as your business evolves, this book shows you how to apply the schema-free graph model to real-world problems."
+  },
+  {
+    "id": "1449372635",
+    "title": "CSS Secrets: Better Solutions to Everyday Web Design Problems",
+    "author": "Lea Verou",
+    "links": {
+      "usa": "https://www.amazon.com/dp/1449372635/?tag=fullstackbulletin-20",
+      "uk": "https://www.amazon.co.uk/dp/1449372635/?tag=fullstackbulletin-21"
+    },
+    "coverPicture": "https://images-na.ssl-images-amazon.com/images/I/512aDoMfKVL.jpg",
+    "description": "In this practical guide, CSS expert Lea Verou provides 47 undocumented techniques and tips to help intermediate-to advanced CSS developers devise elegant solutions to a wide range of everyday web design problems. Rather than focus on design, CSS Secrets shows you how to solve problems with code. You'll learn how to apply Lea's analytical approach to practically every CSS problem you face to attain DRY, maintainable, flexible, lightweight, and standards-compliant results."
+  },
+  {
+    "id": "B01JLBMC86",
+    "title": "Angular 2 Cookbook",
+    "author": "Matt Frisbie",
+    "links": {
+      "usa": "https://www.amazon.com/dp/B01JLBMC86/?tag=fullstackbulletin-20",
+      "uk": "https://www.amazon.co.uk/dp/B01JLBMC86/?tag=fullstackbulletin-21"
+    },
+    "coverPicture": "https://images-na.ssl-images-amazon.com/images/I/51R0ICa59oL.jpg",
+    "description": "This book covers all the most complicated Angular concepts and at the same time introduces the best practices with which to wield these powerful tools. It also covers in detail all the concepts you'll need to get you building applications faster. Often neglected topics such as testing and performance optimization are widely covered as well. A developer that reads through all the content in this book will have a broad and deep understanding of all the major topics in the Angular 2 universe."
+  },
+  {
+    "id": "1617292559",
+    "title": "Irresistible APIs: Designing web APIs that developers will love",
+    "author": "Kirsten Hunter",
+    "links": {
+      "usa": "https://www.amazon.com/dp/1617292559/?tag=fullstackbulletin-20",
+      "uk": "https://www.amazon.co.uk/dp/1617292559/?tag=fullstackbulletin-21"
+    },
+    "coverPicture": "https://images-na.ssl-images-amazon.com/images/I/51JYv0J8dIL.jpg",
+    "description": "Well-designed APIs feel like a natural extension of the application, rather than just a new interface into the backend database. Designing Web APIs based on use cases allows an organization to develop irresistible APIs, which developers can consume easily and which support the business values of that organization."
+  },
+  {
+    "id": "1784390313",
+    "title": "Mastering Symfony",
+    "author": "Sohail Salehi",
+    "links": {
+      "usa": "https://www.amazon.com/dp/1784390313/?tag=fullstackbulletin-20",
+      "uk": "https://www.amazon.co.uk/dp/1784390313/?tag=fullstackbulletin-21"
+    },
+    "coverPicture": "https://images-na.ssl-images-amazon.com/images/I/41L2PD3aWTL.jpg",
+    "description": "In this book, you will learn some lesser known aspects of development with Symfony, and you will see how to use Symfony as a framework to create reliable and effective applications. You might have developed some impressive PHP libraries in other projects, but what is the point when your library is tied to one particular project? With Symfony, you can turn your code into a service and reuse it in other projects."
+  },
+  {
+    "id": "1680501267",
+    "title": "Rails, Angular, Postgres, and Bootstrap: Powerful, Effective, and Efficient Full-Stack Web Development",
+    "author": "David B. Copeland",
+    "links": {
+      "usa": "https://www.amazon.com/dp/1680501267/?tag=fullstackbulletin-20",
+      "uk": "https://www.amazon.co.uk/dp/1680501267/?tag=fullstackbulletin-21"
+    },
+    "coverPicture": "https://images-na.ssl-images-amazon.com/images/I/51sJTz2imUL.jpg",
+    "description": "As a Rails developer, you care about user experience and performance, but you also want simple and maintainable code. Achieve all that by embracing the full stack of web development, from styling with Bootstrap, building an interactive user interface with AngularJS, to storing data quickly and reliably in PostgreSQL. Take a holistic view of full-stack development to create usable, high-performing applications, and learn to use these technologies effectively in a Ruby on Rails environment."
+  },
+  {
+    "id": "152391744X",
+    "title": "The DevOps 2.0 Toolkit: Automating the Continuous Deployment Pipeline with Containerized Microservices",
+    "author": "Viktor Farcic",
+    "links": {
+      "usa": "https://www.amazon.com/dp/152391744X/?tag=fullstackbulletin-20",
+      "uk": "https://www.amazon.co.uk/dp/152391744X/?tag=fullstackbulletin-21"
+    },
+    "coverPicture": "https://images-na.ssl-images-amazon.com/images/I/41T2KaFQPDL.jpg",
+    "description": "This book is about different techniques that help us architect software in a better and more efficient way with microservices packed as immutable containers, tested and deployed continuously to servers that are automatically provisioned with configuration management tools. It's about fast, reliable and continuous deployments with zero-downtime and ability to roll-back. It's about scaling to any number of servers, design of self-healing systems capable of recuperation from both hardware and software failures and about centralized logging and monitoring of the cluster."
+  },
+  {
+    "id": "0596517742",
+    "title": "JavaScript: The Good Parts",
+    "author": "Douglas Crockford",
+    "links": {
+      "usa": "https://www.amazon.com/dp/0596517742/?tag=fullstackbulletin-20",
+      "uk": "https://www.amazon.co.uk/dp/0596517742/?tag=fullstackbulletin-21"
+    },
+    "coverPicture": "https://images-na.ssl-images-amazon.com/images/I/5166ztxOm9L.jpg",
+    "description": "Most programming languages contain good and bad parts, but JavaScript has more than its share of the bad, having been developed and released in a hurry before it could be refined. This authoritative book scrapes away these bad features to reveal a subset of JavaScript that's more reliable, readable, and maintainable than the language as a whole—a subset you can use to create truly extensible and efficient code. Considered the JavaScript expert by many people in the development community, author Douglas Crockford identifies the abundance of good ideas that make JavaScript an outstanding object-oriented programming language-ideas such as functions, loose typing, dynamic objects, and an expressive object literal notation."
+  },
+  {
+    "id": "1593275846",
+    "title": "Eloquent JavaScript: A Modern Introduction to Programming",
+    "author": "Marijn Haverbeke",
+    "links": {
+      "usa": "https://www.amazon.com/dp/1593275846/?tag=fullstackbulletin-20",
+      "uk": "https://www.amazon.co.uk/dp/1593275846/?tag=fullstackbulletin-21"
+    },
+    "coverPicture": "https://images-na.ssl-images-amazon.com/images/I/51zFTdNilAL.jpg",
+    "description": "JavaScript lies at the heart of almost every modern web application, from social apps to the newest browser-based games. Though simple for beginners to pick up and play with, JavaScript is a flexible, complex language that you can use to build full-scale applications. Eloquent JavaScript, 2nd Edition dives deep into the JavaScript language to show you how to write beautiful, effective code."
+  },
+  {
+    "id": "1491950358",
+    "title": "Building Microservices: Designing Fine-Grained Systems",
+    "author": "Sam Newman",
+    "links": {
+      "usa": "https://www.amazon.com/dp/1491950358/?tag=fullstackbulletin-20",
+      "uk": "https://www.amazon.co.uk/dp/1491950358/?tag=fullstackbulletin-21"
+    },
+    "coverPicture": "https://images-na.ssl-images-amazon.com/images/I/5156gHBSxaL.jpg",
+    "description": "Distributed systems have become more fine-grained in the past 10 years, shifting from code-heavy monolithic applications to smaller, self-contained microservices. But developing these systems brings its own set of headaches. With lots of examples and practical advice, this book takes a holistic view of the topics that system architects and administrators must consider when building, managing, and evolving microservice architectures."
+  },
+  {
+    "id": "1449344682",
+    "title": "MongoDB: The Definitive Guide: Powerful and Scalable Data Storage",
+    "author": "Kristina Chodorow",
+    "links": {
+      "usa": "https://www.amazon.com/dp/1449344682/?tag=fullstackbulletin-20",
+      "uk": "https://www.amazon.co.uk/dp/1449344682/?tag=fullstackbulletin-21"
+    },
+    "coverPicture": "https://images-na.ssl-images-amazon.com/images/I/51gzqnIpxQL.jpg",
+    "description": "Manage the huMONGOus amount of data collected through your web application with MongoDB. This authoritative introduction—written by a core contributor to the project—shows you the many advantages of using document-oriented databases, and demonstrates how this reliable, high-performance system allows for almost infinite horizontal scalability. This book provides guidance for database developers, advanced configuration for system administrators, and an overview of the concepts and use cases for other people on your project."
+  },
+  {
+    "id": "1449358543",
+    "title": "Elasticsearch: The Definitive Guide: A Distributed Real-Time Search and Analytics Engine",
+    "author": "Clinton Gormley",
+    "links": {
+      "usa": "https://www.amazon.com/dp/1449358543/?tag=fullstackbulletin-20",
+      "uk": "https://www.amazon.co.uk/dp/1449358543/?tag=fullstackbulletin-21"
+    },
+    "coverPicture": "https://images-na.ssl-images-amazon.com/images/I/51V-yC0%2BY2L.jpg",
+    "description": "Whether you need full-text search or real-time analytics of structured data—or both—the Elasticsearch distributed search engine is an ideal way to put your data to work. This practical guide not only shows you how to search, analyze, and explore data with Elasticsearch, but also helps you deal with the complexities of human language, geolocation, and relationships. If you’re a newcomer to both search and distributed systems, you’ll quickly learn how to integrate Elasticsearch into your application."
+  },
+  {
+    "id": "1785289640",
+    "title": "ReactJS by Example- Building Modern Web Applications with React",
+    "author": "Vipul A M",
+    "links": {
+      "usa": "https://www.amazon.com/dp/1785289640/?tag=fullstackbulletin-20",
+      "uk": "https://www.amazon.co.uk/dp/1785289640/?tag=fullstackbulletin-21"
+    },
+    "coverPicture": "https://images-na.ssl-images-amazon.com/images/I/51YLRuvpeoL.jpg",
+    "description": "tarting with a project on Open Library API, you will be introduced to React and JSX before moving on to learning about the life cycle of a React component. In the second project, building a multi-step wizard form, you will learn about composite dynamic components and perform DOM actions. You will also learn about building a fast search engine by exploring server-side rendering in the third project on a search engine application. Next, you will build a simple frontpage for an e-commerce app in the fourth project by using data models and React add-ons. In the final project you will develop a complete social media tracker by using the flux way of defining React apps and know about the best practices and use cases with the help of ES6 and redux."
+  },
+  {
+    "id": "1680501712",
+    "title": "Agile Web Development with Rails 5",
+    "author": "Sam Ruby",
+    "links": {
+      "usa": "https://www.amazon.com/dp/1680501712/?tag=fullstackbulletin-20",
+      "uk": "https://www.amazon.co.uk/dp/1680501712/?tag=fullstackbulletin-21"
+    },
+    "coverPicture": "https://images-na.ssl-images-amazon.com/images/I/51EuMjfBsDL.jpg",
+    "description": "Rails 5 and Ruby 2.2 bring many improvements, including new APIs and substantial performance enhancements, and the fifth edition of this award-winning classic is now updated! If you're new to Rails, you'll get step-by-step guidance. If you're an experienced developer, this book will give you the comprehensive, insider information you need for the latest version of Ruby on Rails."
+  },
+  {
+    "id": "0262533057",
+    "title": "Introduction to Algorithms, Third Edition (International Edition)",
+    "author": "Thomas H. Cormen",
+    "links": {
+      "usa": "https://www.amazon.com/dp/0262533057/?tag=fullstackbulletin-20",
+      "uk": "https://www.amazon.co.uk/dp/0262533057/?tag=fullstackbulletin-21"
+    },
+    "coverPicture": "https://images-na.ssl-images-amazon.com/images/I/41PpogZtaOL.jpg",
+    "description": "Some books on algorithms are rigorous but incomplete; others cover masses of material but lack rigor.  Introduction to Algorithms uniquely combines rigor and comprehensiveness. The book covers a broad range of algorithms in depth, yet makes their design and analysis accessible to all levels of readers. Each chapter is relatively self-contained and can be used as a unit of study. The algorithms are described in English and in a pseudocode designed to be readable by anyone who has done a little programming. The explanations have been kept elementary without sacrificing depth of coverage or mathematical rigor."
+  },
+  {
+    "id": "1491933666",
+    "title": "Cassandra: The Definitive Guide: Distributed Data at Web Scale",
+    "author": "Jeff Carpenter and Eben Hewitt",
+    "links": {
+      "usa": "https://www.amazon.com/dp/1491933666/?tag=fullstackbulletin-20",
+      "uk": "https://www.amazon.co.uk/dp/1491933666/?tag=fullstackbulletin-21"
+    },
+    "coverPicture": "https://images-na.ssl-images-amazon.com/images/I/51HgIFuqU%2BL.jpg",
+    "description": "Imagine what you could do if scalability wasn't a problem. With this hands-on guide, you’ll learn how the Cassandra database management system handles hundreds of terabytes of data while remaining highly available across multiple data centers. This expanded second edition—updated for Cassandra 3.0 provides the technical details and practical examples you need to put this database to work in a production environment. Authors Jeff Carpenter and Eben Hewitt demonstrate the advantages of Cassandra’s non-relational design, with special attention to data modeling."
+  },
+  {
+    "id": "1783551623",
+    "title": "React.js Essentials",
+    "author": "Artemij Fedosejev",
+    "links": {
+      "usa": "https://www.amazon.com/dp/1783551623/?tag=fullstackbulletin-20",
+      "uk": "https://www.amazon.co.uk/dp/1783551623/?tag=fullstackbulletin-21"
+    },
+    "coverPicture": "https://images-na.ssl-images-amazon.com/images/I/41qzJscxR6L.jpg",
+    "description": "A fast-paced guide to designing and building scalable and maintainable web apps with React.js. Begin by exploring how you can create single and multiple user interface elements. Create stateless and stateful components and make them reactive, learn to interact between your components and lifecycle methods and gauge how to effectively integrate your user interface components with other JavaScript libraries. Delve deep into the core elements of the Flux architecture and learn how to manage your application using stores. Finish by going that extra mile with the Jest test framework, running multiple tests on your application and find solutions to scale it further without complexity."
+  },
+  {
+    "id": "1491927577",
+    "title": "Linux Pocket Guide: Essential Commands",
+    "author": "Daniel J. Barrett",
+    "links": {
+      "usa": "https://www.amazon.com/dp/1491927577/?tag=fullstackbulletin-20",
+      "uk": "https://www.amazon.co.uk/dp/1491927577/?tag=fullstackbulletin-21"
+    },
+    "coverPicture": "https://images-na.ssl-images-amazon.com/images/I/51AbKrNDvaL.jpg",
+    "description": "If you use Linux in your day-to-day work, this popular pocket guide is the perfect on-the-job reference. The third edition features new commands for processing image files and audio files, running and killing programs, reading and modifying the system clipboard, and manipulating PDF files, as well as other commands requested by readers. You’ll also find powerful command-line idioms you might not be familiar with, such as process substitution and piping into bash. Linux Pocket Guide provides an organized learning path to help you gain mastery of the most useful and important commands. Whether you’re a novice who needs to get up to speed on Linux or an experienced user who wants a concise and functional reference, this guide provides quick answers. Selected topics include:The filesystem and shell, File creation and editing, Text manipulation and pipelines, Backups and remote storage, Viewing and controlling processes, User account management, Becoming the superuser, Network connections, Audio and video, Installing softwar, Programming with shell scripts."
+  },
+  {
+    "id": "0134032802",
+    "title": "The Art of Scalability: Scalable Web Architecture, Processes, and Organizations for the Modern Enterprise",
+    "author": "Martin L. Abbott and Michael T. Fisher",
+    "links": {
+      "usa": "https://www.amazon.com/dp/0134032802/?tag=fullstackbulletin-20",
+      "uk": "https://www.amazon.co.uk/dp/0134032802/?tag=fullstackbulletin-21"
+    },
+    "coverPicture": "https://images-na.ssl-images-amazon.com/images/I/51RLUGr60SL.jpg",
+    "description": "Writing for technical and nontechnical decision-makers, Abbott and Fisher cover everything that impacts scalability, including architecture, process, people, organization, and technology. Their insights and recommendations reflect more than thirty years of experience at companies ranging from eBay to Visa, and Salesforce.com to Apple. You’ll find updated strategies for structuring organizations to maximize agility and scalability, as well as new insights into the cloud (IaaS/PaaS) transition, NoSQL, DevOps, business metrics, and more. Using this guide’s tools and advice, you can systematically clear away obstacles to scalability–and achieve unprecedented IT and business performance."
+  },
+  {
+    "id": "1785885588",
+    "title": "Node.js Design Patterns - Second Edition",
+    "author": "Mario Casciaro and Luciano Mammino",
+    "links": {
+      "usa": "https://www.amazon.com/dp/1785885588/?tag=fullstackbulletin-20",
+      "uk": "https://www.amazon.co.uk/dp/1785885588/?tag=fullstackbulletin-21"
+    },
+    "coverPicture": "https://images-na.ssl-images-amazon.com/images/I/519BIge%2BJ2L.jpg",
+    "description": "Get the best out of Node.js by mastering  its most powerful components and patterns to create modular and scalable applications with ease. Create reusable patterns and modules by leveraging the new features of Node.js. Understand  the asynchronous single thread design of node and grasp all its features and patterns to take advantage of various functions. This unique guide will help you get the most out of Node.js and its ecosystem."
+  },
+  {
+    "id": "1430258632",
+    "title": "CSS Mastery",
+    "author": "Andy Budd",
+    "links": {
+      "usa": "https://www.amazon.com/dp/1430258632/?tag=fullstackbulletin-20",
+      "uk": "https://www.amazon.co.uk/dp/1430258632/?tag=fullstackbulletin-21"
+    },
+    "coverPicture": "https://images-na.ssl-images-amazon.com/images/I/41bJBNKs6XL.jpg",
+    "description": "Fully updated to the latest CSS modules, make the journey to CSS mastery as simple and painless as possible. This book dives into advanced aspects of CSS-based design, such as responsive design, modular CSS, and CSS typography. Through a series of easy-to-follow tutorials, you will learn practical CSS techniques you can immediately start using in your daily work."
+  },
+  {
+    "id": "161729201X",
+    "title": "Elixir in Action",
+    "author": "Saša Juri&cacute;",
+    "links": {
+      "usa": "https://www.amazon.com/dp/161729201X/?tag=fullstackbulletin-20",
+      "uk": "https://www.amazon.co.uk/dp/161729201X/?tag=fullstackbulletin-21"
+    },
+    "coverPicture": "https://images-na.ssl-images-amazon.com/images/I/51XxwmImH5L.jpg",
+    "description": "Elixir in Action teaches you to apply the new Elixir programming language to practical problems associated with scalability, concurrency, fault tolerance, and high availability. Elixir is a modern programming language that takes advantage of BEAM, the Erlang virtual machine, without the burden of Erlang's complex syntax and conventions. Elixir gives you Ruby-like elegance with the power to develop bulletproof distributed server systems that can handle massive numbers of simultaneous clients and run with almost no downtime."
+  },
+  {
+    "id": "1491905018",
+    "title": "Modern PHP: New Features and Good Practices",
+    "author": "Josh Lockhart",
+    "links": {
+      "usa": "https://www.amazon.com/dp/1491905018/?tag=fullstackbulletin-20",
+      "uk": "https://www.amazon.co.uk/dp/1491905018/?tag=fullstackbulletin-21"
+    },
+    "coverPicture": "https://images-na.ssl-images-amazon.com/images/I/51fIuBswbgL.jpg",
+    "description": "PHP is experiencing a renaissance, though it may be difficult to tell with all of the outdated PHP tutorials online. With this practical guide, you’ll learn how PHP has become a full-featured, mature language with object-orientation, namespaces, and a growing collection of reusable component libraries. Author Josh Lockhart—creator of PHP The Right Way, a popular initiative to encourage PHP best practices—reveals these new language features in action. You’ll learn best practices for application architecture and planning, databases, security, testing, debugging, and deployment."
+  },
+  {
+    "id": "1491949309",
+    "title": "Web Development with Node and Express: Leveraging the JavaScript Stack",
+    "author": "Ethan Brown",
+    "links": {
+      "usa": "https://www.amazon.com/dp/1491949309/?tag=fullstackbulletin-20",
+      "uk": "https://www.amazon.co.uk/dp/1491949309/?tag=fullstackbulletin-21"
+    },
+    "coverPicture": "https://images-na.ssl-images-amazon.com/images/I/51-U0v0J8DL.jpg",
+    "description": "Learn how to build dynamic web applications with Express, a key component of the Node/JavaScript development stack. In this hands-on guide, author Ethan Brown teaches you the fundamentals through the development of a fictional application that exposes a public website and a RESTful API. You’ll also learn web architecture best practices to help you build single-page, multi-page, and hybrid web apps with Express."
+  },
+  {
+    "id": "1633430235",
+    "title": "Docker in Action",
+    "author": "Jeff Nickoloff",
+    "links": {
+      "usa": "https://www.amazon.com/dp/1633430235/?tag=fullstackbulletin-20",
+      "uk": "https://www.amazon.co.uk/dp/1633430235/?tag=fullstackbulletin-21"
+    },
+    "coverPicture": "https://images-na.ssl-images-amazon.com/images/I/518L63vGMpL.jpg",
+    "description": "After starting with a clear explanation of the Docker model, you will learn how to package applications in containers, including techniques for testing and distributing applications. You will also learn how to run programs securely and how to manage shared resources. Using carefully designed examples, the book teaches you how to orchestrate containers and applications from installation to removal. Along the way, you'll discover techniques for using Docker on systems ranging from dev-and-test machines to full-scale cloud deployments."
+  },
+  {
+    "id": "1449394094",
+    "title": "SQL Pocket Guide: A Guide to SQL Usage",
+    "author": "Jonathan Gennick",
+    "links": {
+      "usa": "https://www.amazon.com/dp/1449394094/?tag=fullstackbulletin-20",
+      "uk": "https://www.amazon.co.uk/dp/1449394094/?tag=fullstackbulletin-21"
+    },
+    "coverPicture": "https://images-na.ssl-images-amazon.com/images/I/41M-Gdz3ZuL.jpg",
+    "description": "If you're a programmer or database administrator who uses SQL in your day-to-day work, this popular pocket guide is the ideal on-the-job reference. You'll find many examples that address the language's complexity, along with key aspects of SQL used in IBM DB2 Release 9.7, MySQL 5.1, Oracle Database 11g Release 2, PostgreSQL 9.0, and Microsoft SQL Server 2008 Release 2. SQL Pocket Guide describes how these database systems implement SQL syntax for querying, managing transactions, and making changes to data. It also shows how the systems use SQL functions, regular expression syntax, and type conversion functions and formats."
+  },
+  {
+    "id": "1514735164",
+    "title": "RESTful API Design",
+    "author": "Matthias Biehl",
+    "links": {
+      "usa": "https://www.amazon.com/dp/1514735164/?tag=fullstackbulletin-20",
+      "uk": "https://www.amazon.co.uk/dp/1514735164/?tag=fullstackbulletin-21"
+    },
+    "coverPicture": "https://images-na.ssl-images-amazon.com/images/I/51d5trMkYTL.jpg",
+    "description": "this book is packed with best practices on many technical aspects of RESTful API Design, such as the correct use of resources, URIs, representations, content types, data formats, parameters, HTTP status codes and HTTP methods. You want to design and develop APIs like a Pro? Use API description languages to both design APIs and develop APIs efficiently. The book introduces the two most common API description languages RAML and OpenAPI/Swagger"
+  },
+  {
+    "id": "1491936088",
+    "title": "Laravel: Up and Running: A Framework for Building Modern PHP Apps",
+    "author": "Matt Stauffer",
+    "links": {
+      "usa": "https://www.amazon.com/dp/1491936088/?tag=fullstackbulletin-20",
+      "uk": "https://www.amazon.co.uk/dp/1491936088/?tag=fullstackbulletin-21"
+    },
+    "coverPicture": "https://images-na.ssl-images-amazon.com/images/I/51gGSQY3NxL.jpg",
+    "description": "What sets Laravel apart from other PHP web frameworks? Speed and simplicity, for starters. This rapid application development framework and its vast ecosystem of tools let you quickly build new sites and applications with clean, readable code. With this practical guide, Matt Stauffer -a leading teacher and developer in the Laravel community- provides the definitive introduction to one of today's most popular web frameworks. The book's high-level overview and concrete examples will help experienced PHP web developers get started with Laravel right away."
+  },
+  {
+    "id": "",
+    "title": "Programming Phoenix: Productive |> Reliable |> Fast",
+    "author": "Chris McCord, Bruce Tate, Jose Valim",
+    "links": {
+      "usa": "https://www.amazon.com/dp/1680501453/?tag=fullstackbulletin-20",
+      "uk": "https://www.amazon.co.uk/dp/1680501453/?tag=fullstackbulletin-21"
+    },
+    "coverPicture": "https://images-na.ssl-images-amazon.com/images/I/41pPn50VnvL.jpg",
+    "description": "What sets Laravel apart from other PHP web frameworks? Speed and simplicity, for starters. This rapid application development framework and its vast ecosystem of tools let you quickly build new sites and applications with clean, readable code. With this practical guide, Matt Stauffer -a leading teacher and developer in the Laravel community- provides the definitive introduction to one of today's most popular web frameworks. The book's high-level overview and concrete examples will help experienced PHP web developers get started with Laravel right away."
+  }
+]

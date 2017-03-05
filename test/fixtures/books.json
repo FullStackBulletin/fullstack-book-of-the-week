@@ -1,0 +1,35 @@
+[
+  {
+    "id": "0008166099",
+    "title": "Algorithms to live by",
+    "author": "Brian Christian and Tom Griffiths",
+    "links": {
+      "usa": "https://www.amazon.com/dp/0008166099/?tag=fullstackbulletin-20",
+      "uk": "https://www.amazon.co.uk/dp/0008166099/?tag=fullstackbulletin-21"
+    },
+    "coverPicture": "https://images-na.ssl-images-amazon.com/images/I/51mu1fKpgTL.jpg",
+    "description": "A fascinating exploration of how computer algorithms can be applied to our everyday lives, helping to solve common decision-making problems and illuminate the workings of the human mindAll our lives are constrained by limited space and time, limits that give rise to a particular set of problems. What should we do, or leave undone, in a day or a lifetime? How much messiness should we accept? What balance of new activities and familiar favourites is the most fulfilling?"
+  },
+  {
+    "id": "1491946008",
+    "title": "Fluent Python: Clear, Concise, and Effective Programming",
+    "author": "Luciano Ramalho",
+    "links": {
+      "usa": "https://www.amazon.com/dp/1491946008/?tag=fullstackbulletin-20",
+      "uk": "https://www.amazon.co.uk/dp/1491946008/?tag=fullstackbulletin-21"
+    },
+    "coverPicture": "https://images-na.ssl-images-amazon.com/images/I/51cRqX8DTgL.jpg",
+    "description": "Python’s simplicity lets you become productive quickly, but this often means you aren’t using everything it has to offer.  With this hands-on guide, you’ll learn how to write effective, idiomatic Python code by leveraging its best—and possibly most neglected—features."
+  },
+  {
+    "id": "1449379702",
+    "title": "Designing Interfaces: Patterns for Effective Interaction Design",
+    "author": "Jenifer Tidwell",
+    "links": {
+      "usa": "https://www.amazon.com/dp/1449379702/?tag=fullstackbulletin-20",
+      "uk": "https://www.amazon.co.uk/dp/1449379702/?tag=fullstackbulletin-21"
+    },
+    "coverPicture": "https://images-na.ssl-images-amazon.com/images/I/51I%2BKHklKdL.jpg",
+    "description": "Despite all of the UI toolkits available today, it's still not easy to design good application interfaces. This bestselling book is one of the few reliable sources to help you navigate through the maze of design options."
+  }
+]
