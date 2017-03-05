@@ -1,7 +1,7 @@
 {
   "name": "fullstack-book-of-the-week",
   "description": "A set of tech books that might be enjoyed by the fullstack developer, ideally one per week",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "main": "lib/index.js",
   "jsnext:main": "src/index.js",
   "module": "src/index.js",

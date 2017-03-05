@@ -1,6 +1,6 @@
 # fullstack-book-of-the-week
 
-[![npm version](https://badge.fury.io/js/fullstack-book-of-the-week.svg)](http://badge.fury.io/js/fullstack-book-of-the-week) [![CircleCI](https://circleci.com/gh/FullStackBulletin/fullstack-book-of-the-week.svg?style=shield)](https://circleci.com/gh/FullStackBulletin/fullstack-book-of-the-week) [![codecov](https://codecov.io/gh/FullStackBulletin/fullstack-book-of-the-week/branch/master/graph/badge.svg)](https://codecov.io/gh/FullStackBulletin/fullstack-book-of-the-week)
+[![npm version](https://badge.fury.io/js/fullstack-book-of-the-week.svg)](http://badge.fury.io/js/fullstack-book-of-the-week) [![CircleCI](https://circleci.com/gh/FullStackBulletin/fullstack-book-of-the-week/tree/master.svg?style=shield)](https://circleci.com/gh/FullStackBulletin/fullstack-book-of-the-week) [![codecov](https://codecov.io/gh/FullStackBulletin/fullstack-book-of-the-week/branch/master/graph/badge.svg)](https://codecov.io/gh/FullStackBulletin/fullstack-book-of-the-week)
 
 
 A set of tech books that might be enjoyed by the fullstack developer, ideally one per week.
