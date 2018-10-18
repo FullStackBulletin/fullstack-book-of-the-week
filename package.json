@@ -15,7 +15,7 @@
   "author": "Luciano Mammino <lucianomammino@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "moment": "^2.17.1"
+    "moment": "^2.19.3"
   },
   "devDependencies": {
     "ava": "^0.18.1",
